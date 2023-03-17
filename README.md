@@ -39,8 +39,8 @@ One interesting feature of the Julia set is that it can exhibit a wide range of 
   
   ## Some useful RESOURCES
   (https://en.wikipedia.org/wiki/Mandelbrot_set) \
-  (https://realpython.com/mandelbrot-set-python/) \ 
-  (https://en.wikipedia.org/wiki/Julia_set) \ 
+  (https://realpython.com/mandelbrot-set-python/) \
+  (https://en.wikipedia.org/wiki/Julia_set) \
   (https://www.cimt.org.uk/projects/mepres/alevel/fpure_ch3.pdf) \
   (https://www.youtube.com/watch?v=NGMRB4O922I&t=152s&ab_channel=Numberphile)
   
