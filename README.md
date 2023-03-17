@@ -31,7 +31,7 @@ One interesting feature of the Julia set is that it can exhibit a wide range of 
 
   
   ## The New concepts:
-  ** Learning How to use MinLibx library(Graphic library created by 42NETWORK)\__
+  ** Learning How to use MinLibx library(Graphic library created by 42NETWORK)__
   ** Using Struct as a DS.\
   ** Parsing the Data.\n
   ** Complex Number manipulation.\n
