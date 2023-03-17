@@ -30,3 +30,18 @@ The Julia set is typically visualized as a two-dimensional plot in the complex p
 One interesting feature of the Julia set is that it can exhibit a wide range of different shapes and patterns depending on the value of "c" and the initial conditions. Some Julia sets have a fractal boundary, while others have a more regular shape. The Julia set has also been studied extensively in complex dynamics, as it exhibits a range of complex and chaotic behaviors.
 
   
+  ## The New concepts:
+  ** Learning How to use MinLibx library(Graphic library created by 42NETWORK)
+  ** Using Struct as a DS.
+  ** Parsing the Data.
+  ** Complex Number manipulation.
+  ** BitWise Opreator to Coloring the image.
+  
+  ## Some useful RESOURCES
+  (https://en.wikipedia.org/wiki/Mandelbrot_set)
+  (https://realpython.com/mandelbrot-set-python/)
+  (https://en.wikipedia.org/wiki/Julia_set)
+  (https://www.cimt.org.uk/projects/mepres/alevel/fpure_ch3.pdf)
+  (https://www.youtube.com/watch?v=NGMRB4O922I&t=152s&ab_channel=Numberphile)
+  
+  
