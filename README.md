@@ -33,9 +33,9 @@ One interesting feature of the Julia set is that it can exhibit a wide range of 
   ## The New concepts:
   ** Learning How to use MinLibx library(Graphic library created by 42NETWORK) <br />
   ** Using Struct as a DS. \
-  ** Parsing the Data.\n
-  ** Complex Number manipulation.\n
-  ** BitWise Opreator to Coloring the image.\n
+  ** Parsing the Data. \
+  ** Complex Number manipulation. \
+  ** BitWise Opreator to Coloring the image. \
   
   ## Some useful RESOURCES
   (https://en.wikipedia.org/wiki/Mandelbrot_set)
